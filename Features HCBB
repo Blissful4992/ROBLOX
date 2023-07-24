@@ -1,0 +1,14 @@
+- Master Switch: Switches off the entire script except UI
+- Keybinds: Switch off features using keys on keyboard
+- Save Settings Button
+
+[HCBB]
+- Auto Hit: Times the ball for you (kinda scuffed atm)
+- Ball ESP: ESP Circle around Ball
+- Zone ESP: ESP around Strike Zone (publics + bp)
+
+[SETTINGS]
+- Colors for all 2 of the ESP's
+- Mode: Key (Uses input key in script itself), Mouse (uses right click)
+- Easing: Fast or Smooth
+- Sensitivity: Smoothness of the Smooth Easing Mode
